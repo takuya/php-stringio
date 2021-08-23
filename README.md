@@ -62,7 +62,6 @@ unset($sio);
 - StringIO#eof
 - StringIO#lines
 - StringIO#get_meta_data
-- 
 - StringIO#__toString
 
 
