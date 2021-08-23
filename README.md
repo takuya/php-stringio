@@ -37,7 +37,7 @@ foreach ( $sio as $line) {
 }
 unset($sio);
 ```
-[SplFileObject](https://www.php.net/manual/en/class.splfileobject.php) has many inherited method.
+[SplFileObject](https://www.php.net/manual/en/class.splfileobject.php) has too much inherited method.
 
 ### Differences to SplFileObject
 
