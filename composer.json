@@ -1,0 +1,22 @@
+{
+    "name": "takuya/php-stringio",
+    "description": "StringIO for stream(php://memory) object",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Takuya\\SystemUtil\\Stream\\StringIO\\": "src/"
+        },
+        "exclude-from-classmap": ["tests"]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
+
