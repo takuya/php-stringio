@@ -4,7 +4,7 @@
 
 'string' as IO Stream Object. To avoid large string split into large array. 
 
-Needless to say,`SplFileObject('php://memory','w+')` is best, but too much, SplFileObject methods are too much.
+Needless to say,`SplFileObject('php://memory','w+')` is best, but too much.
 
 
 ## Installation
