@@ -1,5 +1,7 @@
 # StringIO 
 
+![<CircleciTest>](https://circleci.com/gh/takuya/php-stringio.svg?style=svg)
+
 'string' as IO Stream Object. To avoid large string split into large array. 
 
 Needless to say,`new SplFileObject('php://memory','w+');` is best, but too much...
